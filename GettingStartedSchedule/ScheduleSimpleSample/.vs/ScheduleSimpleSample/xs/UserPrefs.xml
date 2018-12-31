@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{2B97A25F-C5D9-4AAC-B8D3-E9F0985852DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.ScheduleSimpleSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.49762CB0-6CBA-4CC9-9C7C-17AF586B1D21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScheduleSimpleSample.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="ScheduleSimpleSample/ScheduleSimpleSamplePage.xaml" Line="25" Column="1" />
+      <File FileName="ScheduleSimpleSample/ViewModel.cs" Line="117" Column="1" />
+      <File FileName="ScheduleSimpleSample/Meeting.cs" Line="28" Column="1" />
+      <File FileName="ScheduleSimpleSample/ScheduleSimpleSamplePage.xaml.cs" Line="14" Column="1" />
+      <File FileName="ScheduleSimpleSample/App.xaml.cs" Line="14" Column="52" />
+      <File FileName="ScheduleSimpleSample.iOS/AppDelegate.cs" Line="27" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScheduleSimpleSample" expanded="True">
+            <Node name="ScheduleSimpleSample" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ScheduleSimpleSamplePage.xaml" expanded="True" />
+            </Node>
+            <Node name="ScheduleSimpleSample.Android" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="ScheduleSimpleSample.iOS" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ScheduleSimpleSample.Android PreferredExecutionTarget="Android.125daaf9" />
+  <MultiItemStartupConfigurations />
+</Properties>
