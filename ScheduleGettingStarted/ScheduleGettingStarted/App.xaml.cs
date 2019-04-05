@@ -12,6 +12,8 @@ namespace ScheduleGettingStarted
             InitializeComponent();
 
             MainPage = new MainPage();
+			
+			// Test
         }
 
         protected override void OnStart()
