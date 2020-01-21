@@ -5,7 +5,7 @@ namespace ScheduleGettingStarted
     /// <summary>   
     /// Represents custom data properties.   
     /// </summary>  
-    public class Meeting : ContentPage
+    public class Meeting
     {
         public string EventName { get; set; }
         public string Organizer { get; set; }
@@ -13,12 +13,7 @@ namespace ScheduleGettingStarted
         public int Capacity { get; set; }
         public DateTime From { get; set; }
         public DateTime To { get; set; }
-
-
         public bool AllDay { get; set; }
-
         public Color color { get; set; }
-
-
     }
 }
