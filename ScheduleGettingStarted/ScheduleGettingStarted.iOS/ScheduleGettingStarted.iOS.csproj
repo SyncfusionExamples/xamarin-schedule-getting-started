@@ -155,10 +155,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Syncfusion.Xamarin.SfSchedule">
-      <Version>17.3.0.9-beta</Version>
+      <Version>18.4.0.41</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>3.6.0.344457</Version>
+      <Version>4.5.0.617</Version>
     </PackageReference>
   </ItemGroup>
 </Project>

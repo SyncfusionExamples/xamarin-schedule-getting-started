@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Xamarin.SfSchedule" Version="17.3.0.9-beta" />
-    <PackageReference Include="Xamarin.Forms" Version="3.6.0.344457" />
+    <PackageReference Include="Syncfusion.Xamarin.SfSchedule" Version="18.4.0.41" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.617" />
   </ItemGroup>
 
   <ItemGroup>
@@ -14,6 +14,9 @@
       <Generator>MSBuild:Compile</Generator>
     </None>
     <None Update="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="View\SchedulerPage.xaml">
       <Generator>MSBuild:Compile</Generator>
     </None>
   </ItemGroup>
