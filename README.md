@@ -13,21 +13,15 @@ Display appointments using the following  built-in configurable views:
 * Workweek view
 * Month view
 * Timeline view
-
-{:.list-unstyled}
 * [Learn more about Scheduler views](https://www.syncfusion.com/xamarin-ui-controls/xamarin-scheduler/views?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
-
-{:.list-unstyled}
 * [Learn more about Timeline view](https://www.syncfusion.com/xamarin-ui-controls/xamarin-scheduler/timeline-view?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Appointments
 
 Appointments provide information about the events scheduled to occur at specified time.
 
-{:.list-unstyled}
 * [Learn more about Schedule appointments](https://www.syncfusion.com/xamarin-ui-controls/xamarin-scheduler/appointments?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
-{:.list-unstyled}
 * [Appointments documentation](https://help.syncfusion.com/xamarin/scheduler/data-bindings?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Selection and navigation
@@ -36,7 +30,6 @@ Appointments provide information about the events scheduled to occur at specifie
 
 Select time slots and appointments with customization options. Schedule also supports programmatic selection
 
-{:.list-unstyled}
 * [Selection documentation](https://help.syncfusion.com/xamarin/scheduler/dayview?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 #### Navigation
@@ -45,14 +38,12 @@ Select time slots and appointments with customization options. Schedule also sup
 *	Bring the required time slots into day, week, and workweek views.
 *	Move to a specific date programmatically.
 
-{:.list-unstyled}
 * [Navigation documentation](https://help.syncfusion.com/xamarin/scheduler/date-navigations?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Date restriction
 
 Prevent navigation beyond the specified minimum and maximum dates. This restricts users from selecting certain dates or creating appointments outside a range of time.
 
-{:.list-unstyled}
 * [Date restriction documentation](https://help.syncfusion.com/xamarin/scheduler/date-navigations?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Appointment rescheduling
@@ -60,7 +51,6 @@ Prevent navigation beyond the specified minimum and maximum dates. This restrict
 * •	Quickly reschedule an appointment by dragging it from one time slot and dropping it into another. This is applicable in day, week, and workweek views.
 * Restrict the rescheduling of certain appointments and prevent the dropping of an appointment at a certain time.
 
-{:.list-unstyled}
 * [Appointment rescheduling documentation](https://help.syncfusion.com/xamarin/scheduler/drag-and-drop-appointments?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Resource view
@@ -73,30 +63,26 @@ Select single or multiple resources and display the events associated with the s
 
 Display the appointments of each resource in a discrete timeline view to enhance viewability.
 
-{:.list-unstyled}
 * [Learn more about Resource view](https://www.syncfusion.com/xamarin-ui-controls/xamarin-scheduler/resource-view?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
-{:.list-unstyled}
 * [Resource view documentation](https://help.syncfusion.com/xamarin/scheduler/resource-view?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Time zones
 Display appointments created in various time zones. Appointments can also be created  in any time zone regardless of the time zone set on the system or device. Appointment times also automatically adjust  for daylight savings. 
 
-{:.list-unstyled}
 * [Time zone documentation](https://help.syncfusion.com/xamarin/scheduler/timezone?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Globalization and localization
 
 #### Globalization
 
-* •	Display date-time formats and schedule headers in different cultures to meet the various needs of different regions.
-* •	Xamarin Scheduler also supports changing the first day of the week.
+* Display date-time formats and schedule headers in different cultures to meet the various needs of different regions.
+* Xamarin Scheduler also supports changing the first day of the week.
 
 #### Localization
 
 Localize static text in Xamarin scheduler by specifying them in the corresponding languages.
 
-{:.list-unstyled}
 * [Localization documentation](https://help.syncfusion.com/xamarin/scheduler/localization?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
 
 ### Right to left(RTL)
