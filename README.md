@@ -48,7 +48,7 @@ Prevent navigation beyond the specified minimum and maximum dates. This restrict
 
 ### Appointment rescheduling
 
-* •	Quickly reschedule an appointment by dragging it from one time slot and dropping it into another. This is applicable in day, week, and workweek views.
+* Quickly reschedule an appointment by dragging it from one time slot and dropping it into another. This is applicable in day, week, and workweek views.
 * Restrict the rescheduling of certain appointments and prevent the dropping of an appointment at a certain time.
 
 * [Appointment rescheduling documentation](https://help.syncfusion.com/xamarin/scheduler/drag-and-drop-appointments?utm_source=github&utm_medium=listing&utm_campaign=xamarin-scheduler-github-samples)
